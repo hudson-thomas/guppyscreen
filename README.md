@@ -1,5 +1,7 @@
 # Guppy Screen for Klipper
 
+> **Fork Note:** This fork adds an Owner column to the Spoolman table. To use it, set the `owner` field in your spool's extra settings in Spoolman.
+
 Guppy Screen is a touch UI for Klipper using APIs exposed by Moonraker. It builds on LVGL as a standalone executable, has no dependency on any display servers such as X/Wayland.
 <p align="center">
     <a aria-label="Downloads" href="https://github.com/ballaswag/guppyscreen/releases">
